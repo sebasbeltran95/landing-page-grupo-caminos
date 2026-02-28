@@ -77,7 +77,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <h2 class="text-uppercase titulo_galeria fuente_titulo">Galeria de imagenes</h2>
+                <h2 class="text-uppercase">Galeria de imagenes</h2>
                 <span class="linea"></span>
                 <section class="galeria">
                     <a href="#image1"><img src="@/assets/img/Electricos/centro-multimedia-chevrolet-spark-euv.avif" alt=""></a>
@@ -123,6 +123,11 @@
                     <a href="#image1" class="next"><i class="fas fa-arrow-right"></i></a>
                     <a href="#" class="close">X</a>
                 </article>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="text-uppercase">El SUV eléctrico que te recarga</h2>
             </div>
         </div>
     </div>
