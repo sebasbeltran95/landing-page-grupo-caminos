@@ -62,7 +62,7 @@
                 </p>
             </div>
         </div>
-        <div class="row d-flex justify-content-center align-items-center g-4">
+        <div class="row d-flex justify-content-center align-items-center g-4 mb-5">
             <div class="col-md-6">
                 <h2 class="text-center">Spark EUV.</h2>
                 <p>
@@ -73,6 +73,56 @@
             <div class="col-md-6 mx-auto align-items-center">
                 <img src="@/assets/img/Electricos/spark-oportunidades-febrero-2026.avif" alt="Chevrolet Spark EUV 100% eléctrico"
                     class="img-fluid w-75 mx-auto d-block" style="border-radius: 5px;">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-uppercase titulo_galeria fuente_titulo">Galeria de imagenes</h2>
+                <span class="linea"></span>
+                <section class="galeria">
+                    <a href="#image1"><img src="@/assets/img/Electricos/centro-multimedia-chevrolet-spark-euv.avif" alt=""></a>
+                    <a href="#image2"><img src="@/assets/img/Electricos/faros-traseros-spark-euv.avif" alt=""></a>
+                    <a href="#image3"><img src="@/assets/img/Electricos/frontal-chevrolet-spark-euv1.avif" alt=""></a>
+                    <a href="#image4"><img src="@/assets/img/Electricos/lateral-chevrolet-spark-euv.avif" alt=""></a>
+                    <a href="#image5"><img src="@/assets/img/Electricos/llantas-chevrolet-spark-euv.avif" alt=""></a>
+                    <a href="#image6"><img src="@/assets/img/Electricos/retrovisores-chevrolet-spark-euv.avif" alt=""></a>
+                </section>
+                <article class="light-box" id="image1">
+                    <a href="#image6" class="next"><i class="fas fa-arrow-left"></i></a>
+                    <img src="@/assets/img/Electricos/centro-multimedia-chevrolet-spark-euv.avif" alt="">
+                    <a href="#image2" class="next"><i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="close">X</a>
+                </article>
+                <article class="light-box" id="image2">
+                    <a href="#image1" class="next"><i class="fas fa-arrow-left"></i></a>
+                    <img src="@/assets/img/Electricos/faros-traseros-spark-euv.avif" alt="">
+                    <a href="#image3" class="next"><i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="close">X</a>
+                </article>
+                <article class="light-box" id="image3">
+                    <a href="#image2" class="next"><i class="fas fa-arrow-left"></i></a>
+                    <img src="@/assets/img/Electricos/frontal-chevrolet-spark-euv1.avif" alt="">
+                    <a href="#image4" class="next"><i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="close">X</a>
+                </article>
+                <article class="light-box" id="image4">
+                    <a href="#image3" class="next"><i class="fas fa-arrow-left"></i></a>
+                    <img src="@/assets/img/Electricos/lateral-chevrolet-spark-euv.avif" alt="">
+                    <a href="#image5" class="next"><i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="close">X</a>
+                </article>
+                <article class="light-box" id="image5">
+                    <a href="#image4" class="next"><i class="fas fa-arrow-left"></i></a>
+                    <img src="@/assets/img/Electricos/llantas-chevrolet-spark-euv.avif" alt="">
+                    <a href="#image6" class="next"><i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="close">X</a>
+                </article>
+                <article class="light-box" id="image6">
+                    <a href="#image5" class="next"><i class="fas fa-arrow-left"></i></a>
+                    <img src="@/assets/img/Electricos/retrovisores-chevrolet-spark-euv.avif" alt="">
+                    <a href="#image1" class="next"><i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="close">X</a>
+                </article>
             </div>
         </div>
     </div>
