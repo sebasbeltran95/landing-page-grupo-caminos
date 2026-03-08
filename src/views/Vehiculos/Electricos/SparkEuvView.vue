@@ -130,6 +130,131 @@
                 <h2 class="text-uppercase">El SUV eléctrico que te recarga</h2>
             </div>
         </div>
+        <div class="row mb-5">
+            <div class="col-md-12">
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            Negro Galaxia
+                        </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <img src="@/assets/img/Electricos/spark-euv-negro-galaxia.png" alt="Chevrolet Spark EUV 100% eléctrico" class="img-fluid" style="border-radius: 5px;">
+                                <div class="d-flex justify-content-center gap-3 mt-3">
+                                    <a href="" class="btn btn-success">Cotiza ya</a>
+                                    <a href="" class="btn btn-outline-success">Chatear con un asesor</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Gris Nube
+                        </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <img src="@/assets/img/Electricos/spark-euv-gris-nube.png" alt="Chevrolet Spark EUV 100% eléctrico" class="img-fluid" style="border-radius: 5px;">
+                                <div class="d-flex justify-content-center gap-3 mt-3">
+                                    <a href="" class="btn btn-success">Cotiza ya</a>
+                                    <a href="" class="btn btn-outline-success">Chatear con un asesor</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Blanco Destello
+                        </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <img src="@/assets/img/Electricos/spark-euv-blanco-destello.png" alt="Chevrolet Spark EUV 100% eléctrico" class="img-fluid" style="border-radius: 5px;">
+                                <div class="d-flex justify-content-center gap-3 mt-3">
+                                    <a href="" class="btn btn-success">Cotiza ya</a>
+                                    <a href="" class="btn btn-outline-success">Chatear con un asesor</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            Azul Tormenta
+                        </button>
+                        </h2>
+                        <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <img src="@/assets/img/Electricos/spark-euv-azul-tormenta.png" alt="Chevrolet Spark EUV 100% eléctrico" class="img-fluid" style="border-radius: 5px;">
+                                <div class="d-flex justify-content-center gap-3 mt-3">
+                                    <a href="" class="btn btn-success">Cotiza ya</a>
+                                    <a href="" class="btn btn-outline-success">Chatear con un asesor</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            Azul Aqua
+                        </button>
+                        </h2>
+                        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <img src="@/assets/img/Electricos/spark-euv-azul-aqua.png" alt="Chevrolet Spark EUV 100% eléctrico" class="img-fluid" style="border-radius: 5px;">
+                                <div class="d-flex justify-content-center gap-3 mt-3">
+                                    <a href="" class="btn btn-success">Cotiza ya</a>
+                                    <a href="" class="btn btn-outline-success">Chatear con un asesor</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="text-uppercase">Un SUV eléctrico, compacto y con estilo propio​</h2>
+            </div>
+        </div>
+        <div class="row mb-5">
+            <div class="col-md-12">
+                <img src="@/assets/img/Electricos/chevrolet-spark-euv-estacionado.avif" alt="Chevrolet Spark EUV 100% eléctrico" class="img-fluid" style="border-radius: 5px;">
+            </div>
+            <div class="col-md-12 justify-content-end">
+                <p>
+                    Minimalista y moderno, el Spark EUV se destaca por sus lineas impactantes y proporciones equilibradas. Con techo y retrovisores bitono disponible en algunos colores, molduras laterales que protegen la carrocería, llantas de aleación de 16" inspiradas en SUVs off-road, neumáticos de perfil alto, faros LED y un baúl de apertura lateral con 549 litros de capacidad, entre muchos detalles más.
+                </p>
+            </div>
+        </div>
+        <div class="row mb-5">
+            <div class="col-md-6">
+                <h3 class="text-center">Mayor distancia al suelo</h3>
+                <p class="text-center">
+                    Para más eficiencia en terrenos irregulares y una mejor visión exterior. 
+                </p>
+                <hr class="my-4">
+                 <h3 class="text-center">Techo con efecto suspendido</h3>
+                <p class="text-center">
+                    Lo que aporta más robustez  y le da un aspecto aventurero al vehículo.
+                </p>
+            </div>
+            <div class="col-md-6">
+                <h3 class="text-center">Cierre de puertas premium</h3>
+                <p class="text-center">
+                    Sellado de alta calidad para más protección y una mejor acústica interna 
+                </p>
+                <hr class="my-4">
+                 <h3 class="text-center">Cámaras de visión de 360º</h3>
+                <p class="text-center">
+                   Para maniobrar y parquear en espacios reducidos.
+                </p>
+            </div>
+        </div>
     </div>
 </template>
 <script>
